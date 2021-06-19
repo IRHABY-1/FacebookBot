@@ -1,7 +1,6 @@
-#Creat By Mohamed Gamal
-#Buy Me a cup of tea if you want VC 01016017092
-# what's App +201016017092
-#El7etan
+#Creat By irhaby
+# what's App +201270042372
+#I R H A B Y
 #all Done
 from selenium import  webdriver
 import time
